@@ -9,9 +9,6 @@ import java.util.PriorityQueue;
 
 import edu.princeton.cs.algs4.BinaryIn;
 import edu.princeton.cs.algs4.BinaryOut;
-import edu.princeton.cs.algs4.BinaryStdOut;
-import edu.princeton.cs.algs4.In;
-import edu.princeton.cs.algs4.StdOut;
 
 /******************************************************************************
  *  Compilation:  javac Huffman.java

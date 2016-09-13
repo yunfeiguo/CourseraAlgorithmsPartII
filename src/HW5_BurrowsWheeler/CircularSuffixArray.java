@@ -152,7 +152,8 @@ public class CircularSuffixArray {
         CircularSuffixArray test = new CircularSuffixArray("ABRACADABRA!");
         //check some of the sorted indices
         System.out.println(test.index(0) == 11 && test.index(1) == 10 && test.index(11) == 2);
-        CircularSuffixArray test2 = new CircularSuffixArray("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");          
+        CircularSuffixArray test2 = new CircularSuffixArray("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+        System.out.println(test2.index(0));
     }
 }
 
